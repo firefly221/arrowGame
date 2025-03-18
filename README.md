@@ -3,7 +3,7 @@ In this project AI learns to play game where player needs to move diagonally. Ba
 
 ![alt text](https://github.com/firefly221/arrowGame/blob/master/DOGITA1.png)
 
-![alt text](https://github.com/firefly221/arrowGame/blob/master/DOGITA2png)
+![alt text](https://github.com/firefly221/arrowGame/blob/master/DOGITA2.png)
 
 ![alt text](https://github.com/firefly221/arrowGame/blob/master/DOGITA3.gif)
 
